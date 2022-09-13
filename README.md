@@ -17,3 +17,8 @@ https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a
 ## Removing SSH in my local computer (Mac)
 
 https://stackoverflow.com/questions/37691375/github-how-to-delete-old-ssh-key-on-my-mac
+
+## Troubleshooting
+
+### Sourcetree keeps asking for Github password
+https://technoteshelp.com/git-sourcetree-keeps-asking-for-github-password/
