@@ -13,3 +13,7 @@ https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/
 ## Setting up my new SSH key to my GitHub account
 
 https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account
+
+## Removing SSH in my local computer (Mac)
+
+https://stackoverflow.com/questions/37691375/github-how-to-delete-old-ssh-key-on-my-mac
